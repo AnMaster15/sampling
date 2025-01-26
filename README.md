@@ -35,14 +35,20 @@ The solution is implemented in the `sampling_102203810.py` file. Here's a summar
 
 The specific implementation details are provided in the Python script.
 
+**Model | Sampling1 | Sampling2 | Sampling3 | Sampling4 | Sampling5**
+--- | --- | --- | --- | --- | ---
+M1 | 0.83606557377049 | 0.89130434782609 | 0.88311688311688 | 0.91803278688525 | 0.91304347826087
+M2 | 0.88524590163934 | 0.90217391304348 | 0.87012987012987 | 1.0 | 0.95652173913043
+M3 | 0.96721311475410 | 1.0 | 1.0 | 1.0 | 0.96739130434783
+M4 | 0.55737704918033 | 0.68478260869565 | 0.57142857142857 | 0.72131147540984 | 0.65217391304348
+M5 | 0.73770491803279 | 0.77173913043478 | 0.71428571428571 | 0.77049180327869 | 0.80434782608696
+
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/AnMaster15/sampling.git`
-3. Run the script: `python sampling_102203810.py`
-4. The results will be stored in the GitHub repository, and the link can be submitted.
+2. Run the script: `python sampling_102203810.py`
+3. The results will be stored in the GitHub repository, and the link can be submitted.
 
 ## Conclusion
 
 The assignment covers the essential aspects of sampling techniques and their application to various ML models. The solution provides a comprehensive approach to addressing the problem and determining the most effective sampling technique for each model.
-
-If you have any questions or need further assistance, please feel free to reach out.
